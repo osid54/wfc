@@ -1,0 +1,14 @@
+2a60927148abd1d33b818b535e306557
+::res://::1686355172
+icon.svg::CompressedTexture2D::8647731547942871085::1686012115::1686012132::1::::<><>::
+::res://sprites/::1686042181
+simpleTileset.png::CompressedTexture2D::6523773305455924739::1686042007::1686042181::1::::<><>::
+::res://things/::1686357037
+cam.gd::GDScript::-1::1686103544::0::1::::<>Camera2D<>::
+cam.tscn::PackedScene::7294802535771170075::1686104059::0::1::::<><>::res://things/cam.gd
+main.gd::GDScript::-1::1686356965::0::1::::<>Node2D<>::
+main.tscn::PackedScene::3209400661692106495::1686356583::0::1::::<><>::res://things/main.gd<>uid://db6wlj1fbo51p
+tile2.tscn::PackedScene::5388170764227136596::1686357048::0::1::::<><>::uid://cy7fuf0mci0d0<>res://things/tile.gd
+tile2.gd::GDScript::-1::1686356997::0::1::::<>Sprite2D<>::
+tile.gd::GDScript::-1::1686356580::0::1::::<>Sprite2D<>::
+tile.tscn::PackedScene::3392670649038678753::1686356965::0::1::::<><>::uid://cy7fuf0mci0d0<>res://things/tile.gd

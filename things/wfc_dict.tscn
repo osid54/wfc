@@ -1,0 +1,13 @@
+[gd_scene load_steps=3 format=3 uid="uid://bxe4i04wkt18j"]
+
+[ext_resource type="Script" path="res://things/wfc_dict.gd" id="1_lht4r"]
+[ext_resource type="PackedScene" uid="uid://db6wlj1fbo51p" path="res://things/cam.tscn" id="2_bjtvg"]
+
+[node name="dict" type="Node2D"]
+script = ExtResource("1_lht4r")
+size = 64
+waittime = 64
+
+[node name="cam" parent="." instance=ExtResource("2_bjtvg")]
+zoom = Vector2(0.1, 0.1)
+speed = 500

@@ -1,0 +1,5 @@
+res://things/main.tscn
+res://things/main.gd
+res://things/tile.gd
+res://things/tile.tscn
+res://things/tile2.tscn
